@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.AssemblyInfo.cs
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.exe
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.deps.json
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.runtimeconfig.json
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.runtimeconfig.dev.json
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.dll
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\ref\banks.dll
+C:\Users\User\source\repos\banks\banks\bin\Debug\net5.0\banks.pdb
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.dll
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\ref\banks.dll
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.pdb
+C:\Users\User\source\repos\banks\banks\obj\Debug\net5.0\banks.genruntimeconfig.cache
